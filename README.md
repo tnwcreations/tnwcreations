@@ -9,7 +9,7 @@ Find me puttering around here or working hard on [TNW Creations] 🎨💻
 <br>
 Investigating URLs on [VirusTotal] ⚔ 
 <br>
-Sharing updates on [LinkedIn], [Twitter], [YouTube] and [FB] 💾
+Sharing updates on [LinkedIn], [Twitter], and [YouTube] 💾
 <br>
     
 <br />
