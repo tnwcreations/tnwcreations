@@ -1,7 +1,7 @@
 ### Hi! I'm Erin, founder of Web Development Agency TNW Creations, LLC. 
 
 
-## I'm a Full Stack Engineer & Media Publisher. I have a long history of working in radio, design, coding web and software and writing. I am most versed with HTML, JavaScript and JSON and I’ve been building and deploying websites since I was a teenager in 1995. 🤯 My interest in stronger cyber security spurred me to delv into (returning to my original) more static no-database development with modernized development. Despite my 26 years as a Coder, I may be learning more than I teach while navigating GitHub for awhile... 
+## I'm a Full Stack Engineer & Media Publisher. I have a long history of working in radio, design, coding web and software and writing. I am most versed with HTML, JavaScript and JSON and I’ve been building and deploying websites since I was a teenager in 1995. 🤯 Over the years, my static coding has shifted to database builds. Now my interest in stronger cyber security has spurred me to return to my original static no-database builds while deploying new methods. Despite my 26 years as a Coder, I may be learning more than I teach while navigating GitHub for awhile... 
 
 ### Where I Lurk or Work: 😎😪🤩
 
